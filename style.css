@@ -1,3 +1,13 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+article {
+    border: 1px solid red;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
