@@ -4,6 +4,11 @@
     margin: 0;
 }
 
+.destaca-container {
+    background: #5bf946;
+    border: 1px solid #36ae26;
+}
+
 article {
     border: 1px solid red;
 }
