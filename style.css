@@ -23,11 +23,22 @@ body {
 
 article {
     border: 1px solid red;
-    height: 70vh;
+    display: flexbox;
 }
 
 .sedans {
-    padding: 30px;
+    background-color: hsl(31, 77%, 52%);
+    padding: 40px;
+}
+
+.svus {
+    background-color: hsl(184, 100%, 22%);
+    padding: 40px;
+}
+
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+    padding: 40px;
 }
 
 .attribution {
@@ -44,3 +55,27 @@ footer {
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+@media (min-width: 768px) {
+    .sedans {
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+
+    .luxury {
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .sedans {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .luxury {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+  }
