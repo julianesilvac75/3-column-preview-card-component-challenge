@@ -10,11 +10,22 @@ html, body {
     height: 100%;
 }
 
-.destaca-container {
-    background: #5bf946;
-    border: 1px solid #36ae26;
+.container {
+    height: 100%;
 }
 
+.destaca-container {
+    background: #5bf946;;
+}
+
+.row {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
 
 article {
     border: 1px solid red;
@@ -31,7 +42,6 @@ footer {
     bottom:0;
     width:100%;
     height:40px;
-    background-color: burlywood;
 }
 
 .attribution a {
