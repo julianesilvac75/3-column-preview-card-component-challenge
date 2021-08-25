@@ -6,7 +6,6 @@
 }
 
 html, body {
-    margin: 0;
     height: 100%;
 }
 
@@ -15,20 +14,20 @@ html, body {
 }
 
 .destaca-container {
-    background: #5bf946;;
+    background: #5bf946;
 }
 
 .row {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    height: 100%;
 }
 
 article {
     border: 1px solid red;
+    height: 70%;
+}
+
+.sedans {
+    padding: 30px;
 }
 
 .attribution {
