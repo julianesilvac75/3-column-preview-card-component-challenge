@@ -6,6 +6,7 @@
 }
 
 body {
+    background-color: hsl(0, 0%, 95%);
     min-height: 100vh;
 }
 
@@ -13,17 +14,23 @@ body {
     min-height: 95vh;
 }
 
-.destaca-container {
-    background: #5bf946;
-}
-
 .row {
     min-height: 95vh;
 }
 
 article {
-    border: 1px solid red;
     display: flexbox;
+}
+
+h1 {
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
 }
 
 .sedans {
