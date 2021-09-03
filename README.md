@@ -1,92 +1,89 @@
-# Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+# Frontend Mentor - 3-column preview card component solution
 
-## Welcome! 👋
+This is a solution to the  [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Thanks for checking out this front-end coding challenge.
+## [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#table-of-contents)Table of contents
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+-   [Overview](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#overview)
+    -   [The challenge](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#the-challenge)
+    -   [Screenshot](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#screenshot)
+    -   [Links](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#links)
+-   [My process](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#my-process)
+    -   [Built with](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#built-with)
+    -   [What I learned](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#what-i-learned)
+    -   [Continued development](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#continued-development)
+    -   [Useful resources](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#useful-resources)
+-   [Author](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#author)
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
-## The challenge
+## [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#overview)Overview
 
-Your challenge is to build out this 3-column preview card component and get it looking as close to the design as possible.
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#the-challenge)The challenge
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Users should be able to:
 
-Your users should be able to:
+-   View the optimal layout depending on their device's screen size
+-   See hover states for interactive elements
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#screenshot)Screenshot
+![enter image description here](https://i.postimg.cc/5yQdpLWT/Screenshot-2021-09-02-at-21-50-36-Frontend-Mentor-3-column-preview-card-component.png)
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+![Desktop view](https://i.postimg.cc/PJVJvmz7/Screenshot-2021-09-02-at-21-50-15-Frontend-Mentor-3-column-preview-card-component.png)
 
-## Where to find everything
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#links)Links
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
+-   Solution URL:  [Add solution URL here](https://your-solution-url.com/)
+-   Live Site URL:  [Click here](https://3-column-preview-card-component-challenge-julianesilvac75.vercel.app/)
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
+## [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#my-process)My process
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#built-with)Built with
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   CSS Grid
+-   [Bootstrap](https://getbootstrap.com.br/) - CSS3 Framework
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#what-i-learned)What I learned
 
-## Building your project
+Although this was a very simple project, for me, as a newbie, it was really challenging. I had never used Bootstrap by myself before, only practice in classes with instructions from a professor, so this was my first experience with Bootstrap classes and it demanded some research on the documentation.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+The most important lesson I've taken on this project is how to search properly on the internet. There's a really big amount of information about practically everything, and sometimes it's hard to find what will work best for you. I'm still learning how to filter all this information.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+This is my first "big" project all by myself, and I'm really proud of it. I feel like I've learned a lot, even if there's still a lot that could be improved.
 
-## Deploying your project
+<h1>Some HTML code I'm proud of</h1>
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+    body {
+	    background-color: hsl(0, 0%, 95%);
+	    font-size: 15px;
+	    min-height: 100vh;
+	}
+	
+	.container {
+		min-height: 95vh;
+	}
+	
+	.row {
+		min-height: 95vh;
+	}
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+So this was my solution for centralizing vertically all the content on the page. It's simple, but I spent about two days thinking about how to do this, and the reason why it was so difficult is that I didn't know the concept of *viewport*. I knew I could use Bootstrap class *align-self-center* to centralize the elements on the grid, but as I was using min-height of 100%, it just wasn't working. So learning about viewport and how to use it certainlly was the most valiable lesson I've taking from this project.
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#continued-development)Continued development
 
-## Create a custom `README.md`
+I really like working with Bootstrap, so I pretend to keep learning and practicing with this framework. Also, working with properties like float and display is still a very tricky thing for me, so I feel like I need lots of practice before knowing how to use them comfortably.
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#useful-resources)Useful resources
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+-   [Article about CSS Viewport Units](https://alligator.io/css/viewport-units/),  that really helped me understanding this concept. 
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+## [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README-template.md#author)Author
 
-## Submitting your solution
+-   Website -  [Juliane Cardoso](https://julianesilvac75.github.io/)
+-   Frontend Mentor -  [@julianesilvac75](https://www.frontendmentor.io/profile/julianesilvac75)
+<br>
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback.
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+> Written with [StackEdit](https://stackedit.io/).
