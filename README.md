@@ -48,13 +48,13 @@ Users should be able to:
 
 ### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README.md#what-i-learned)What I learned
 
-Although this was a very simple project, for me, as a newbie, it was really challenging. I had never used Bootstrap by myself before, only practice in classes with instructions from a professor, so this was my first experience with Bootstrap classes and it demanded some research on the documentation.
+Although this was a straightforward project, as a newbie, it was quite challenging. I'd never worked with Bootstrap independently before; my only practice involved following instructions from a professor during class. Hence, this project marked my initial encounter with Bootstrap classes, requiring thorough research in the documentation.
 
-The most important lesson I've taken on this project is how to search properly on the internet. There's a really big amount of information about practically everything, and sometimes it's hard to find what will work best for you. I'm still learning how to filter all this information.
+The most valuable lesson I gleaned from this project is the skill of conducting effective internet searches. The vast amount of information available on nearly every topic can be overwhelming, making it challenging to identify what suits one's needs best. I am still refining my ability to filter through this wealth of information.
 
-This is my first "big" project all by myself, and I'm really proud of it. I feel like I've learned a lot, even if there's still a lot that could be improved.
+This project represents my first 'significant' project done entirely on my own, and I'm really proud of it. I believe I have acquired valuable knowledge, even though there is still room for improvement.
 
-<h1>Some HTML code I'm proud of</h1>
+<h1>Some CSS code I'm proud of</h1>
 
     body {
 	    background-color: hsl(0, 0%, 95%);
@@ -70,19 +70,20 @@ This is my first "big" project all by myself, and I'm really proud of it. I feel
 		min-height: 95vh;
 	}
 
-So this was my solution for centralizing vertically all the content on the page. It's simple, but I spent about two days thinking about how to do this, and the reason why it was so difficult is that I didn't know the concept of *viewport*. I knew I could use Bootstrap class *align-self-center* to centralize the elements on the grid, but as I was using min-height of 100%, it just wasn't working. So learning about viewport and how to use it certainlly was the most valiable lesson I've taking from this project.
+
+So, here's my trick for centering all the content vertically on the page. It's pretty basic, but I scratched my head for about two days figuring this out. The real issue was that I didn't know about the whole `viewport` concept. I was aware I could use the Bootstrap class `align-self-center` to center elements on the grid, but with a min-height of 100%, it just wasn't working. So learning about viewport and how to work it was hands down the coolest thing I learned from this project.
 
 ### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README.md#continued-development)Continued development
 
-I really like working with Bootstrap, so I pretend to keep learning and practicing with this framework. Also, working with properties like float and display is still a very tricky thing for me, so I feel like I need lots of practice before knowing how to use them comfortably.
+I enjoy working with Bootstrap, so I pretend to keep learning and practicing with this framework. Also, working with properties like `float` and `display` is still a very tricky thing for me, so I feel like I need lots of practice before knowing how to use them comfortably.
 
 ### [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README.md#useful-resources)Useful resources
 
--   [Article about CSS Viewport Units](https://alligator.io/css/viewport-units/),  that really helped me understanding this concept. 
+-   [Article about CSS Viewport Units](https://alligator.io/css/viewport-units/),  this really helped me understanding this concept. 
 
 ## [](https://github.com/julianesilvac75/3-column-preview-card-component-challenge/blob/main/README.md#author)Author
 
--   Website -  [Juliane Cardoso](https://julianesilvac75.github.io/)
+-   Portfolio -  [Juliane Cardoso](https://julianesilvac75.github.io/)
 -   Frontend Mentor -  [@julianesilvac75](https://www.frontendmentor.io/profile/julianesilvac75)
 <br>
 
